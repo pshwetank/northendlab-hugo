@@ -2,8 +2,3 @@
 tools:
 - title: sfggrd
   tool: []
-menu:
-  main:
-    URL: projects
-    name: projects
-    weight: 1
