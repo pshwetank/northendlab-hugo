@@ -18,7 +18,7 @@ URL = "contact"
 name = "About Me"
 weight = 1
 [[menu.main]]
-name = "Experience"
+name = "CV"
 weight = 3
 [[menu.main]]
 URL = "tools"
