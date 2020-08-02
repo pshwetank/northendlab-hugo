@@ -43,7 +43,7 @@ title = "Hi, I'm Shwetank Panwar. <br> I help people make sense of medical data"
 [params.cta]
 description = "That's great. I believe learning best happens with a diversity of experience. Just ping me and lets see if we can share and learn together. "
 enable = true
-image = "images/chat_icon.png"
+image = "images/chat_icon2.png"
 title = "Are you too fascinated with the biology & data science?"
 [params.cta.button]
 enable = true
