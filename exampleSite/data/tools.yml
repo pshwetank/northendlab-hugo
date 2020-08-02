@@ -16,7 +16,7 @@ tools:
     link: https://www.sublimetext.com/
 - title: Deep Learning
   tool:
-  - name: Sketch
+  - name: Neural Image Captioning - Pytorch Implementation
     image: "/images/tools/sketch.png"
     link: https://www.sketch.com/
   - name: Adobe Illustrator
