@@ -1,8 +1,8 @@
 ---
 tools:
-- title: Dev Tools
+- title: Medical Imaging
   tool:
-  - name: Git
+  - name: Automated Detection of Cerebral Microbleeds using Machine Learning
     image: "/images/tools/Git.png"
     link: ''
   - name: Atom
