@@ -5,3 +5,8 @@ tools:
     image: "/images/tools/Atom.png"
     link: ''
   title: Medical Imaging
+menu:
+  main:
+    URL: projects
+    name: Projects
+    weight: 1
