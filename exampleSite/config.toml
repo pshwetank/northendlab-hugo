@@ -6,24 +6,27 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Shwetank Panwar | Blog"
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
-[[menu.footer]]
 URL = "tools"
 name = "tools"
 weight = 2
-[[menu.main]]
-URL = "projects"
-name = "Projects"
-weight = ""
-[[menu.main]]
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
+name = "Experience"
+weight = 4
+[[menu.main]]
+URL = "projects"
+name = "Projects"
+weight = 1
+[[menu.main]]
 URL = "tools"
 name = "tools"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
 weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
