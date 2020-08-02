@@ -14,7 +14,7 @@ tools:
   - name: Sublime Text
     image: "/images/tools/sublime.png"
     link: https://www.sublimetext.com/
-- title: Design Tools
+- title: Deep Learning
   tool:
   - name: Sketch
     image: "/images/tools/sketch.png"
