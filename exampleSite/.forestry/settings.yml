@@ -6,9 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Main Headings
-- type: document
-  path: exampleSite/data/**/*
-  label: Projects
 - type: directory
   path: exampleSite/content
   label: Post
