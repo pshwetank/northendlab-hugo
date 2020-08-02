@@ -7,10 +7,11 @@ sections:
 - type: directory
   path: exampleSite/data/projects
   label: Projects
-  create: all
+  create: documents
   match: "**/*"
+  new_doc_ext: ".yml"
   templates:
-  - projects
+  - tools
 - type: heading
   label: Main Headings
 - type: directory
