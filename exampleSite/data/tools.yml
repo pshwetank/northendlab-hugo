@@ -57,8 +57,3 @@ tools:
   - name: Google Analytics
     image: "/images/tools/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web
-menu:
-  main:
-    URL: contact
-    name: About Me
-    weight: 2

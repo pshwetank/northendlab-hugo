@@ -14,6 +14,15 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
+URL = "contact"
+name = "About Me"
+weight = 2
+[[menu.main]]
+URL = "projects"
+name = "Projects"
+url = "https://shwetank.netlify.app/cmb"
+weight = 1
+[[menu.main]]
 name = "Experience"
 weight = 4
 [[menu.main]]
