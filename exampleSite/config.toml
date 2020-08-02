@@ -41,13 +41,13 @@ bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
 title = "Hi, I'm Shwetank Panwar. <br> I help people make sense of medical data"
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+description = "That's great. I believe learning best happens with a diversity of experience. Just ping me and lets see if we can share and learn together. "
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+title = "Are you too fascinated with the biology & data science?"
 [params.cta.button]
 enable = true
-label = "Visit Here"
+label = "Ping me"
 link = "https://gethugothemes.com/shop/"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
