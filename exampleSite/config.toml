@@ -69,11 +69,8 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "twitter.com/pirate_geek"
 [[params.social]]
 icon = "ti-github"
 link = "#"
