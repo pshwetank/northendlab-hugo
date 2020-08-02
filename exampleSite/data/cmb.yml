@@ -1,15 +1,15 @@
 ---
 tools:
-- title: Deep Learning
-  tool:
-  - name: Neural Image Caption Generator - Pytorch implementation
-    image: ''
-    link: ''
 - tool:
   - name: Automated Detection of Cerebral Microbleeds using Machine Learning
     image: "/images/tools/Atom.png"
     link: ''
   title: Medical Imaging
+- title: Deep Learning
+  tool:
+  - name: Neural Image Caption Generator - Pytorch implementation
+    image: ''
+    link: ''
 menu:
   main:
     URL: projects
