@@ -22,5 +22,3 @@ fields:
       label: project_link
     label: project
   label: Projects
-pages:
-- exampleSite/data/projects/projects.md
