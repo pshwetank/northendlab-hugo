@@ -1,0 +1,7 @@
+---
+tools:
+- tool:
+  - name: Automated Detection of Cerebral Microbleeds using Machine Learning
+    image: "/images/tools/Atom.png"
+    link: ''
+  title: Medical Imaging
