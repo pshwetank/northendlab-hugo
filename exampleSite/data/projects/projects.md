@@ -1,5 +1,4 @@
 +++
-draft = true
 [[projects]]
 title = "Medical Imaging"
 [[projects.project]]
