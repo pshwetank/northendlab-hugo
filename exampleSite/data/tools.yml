@@ -5,7 +5,7 @@ tools:
   - name: Automated Detection of Cerebral Microbleeds using Machine Learning
     image: "/images/tools/Git.png"
     link: ''
-  - name: Atom
+  - name: Fiducial Marker Localisation in MRI imaging
     image: "/images/tools/Atom.png"
     link: https://atom.io/
   - name: Notepad ++
@@ -14,9 +14,6 @@ tools:
   - name: Sublime Text
     image: "/images/tools/sublime.png"
     link: https://www.sublimetext.com/
-  - name: Visual Studio Code
-    image: "/images/tools/vs-code.png"
-    link: https://code.visualstudio.com/
 - title: Design Tools
   tool:
   - name: Sketch
