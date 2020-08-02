@@ -3,22 +3,22 @@ label: Projects
 hide_body: true
 fields:
 - type: field_group_list
-  name: tools
-  label: tools
+  name: projects
   fields:
   - type: text
     name: title
     label: title
   - type: field_group_list
-    name: tool
-    label: tool
+    name: project
     fields:
     - type: text
-      name: name
-      label: name
+      name: project_name
+      label: project_name
     - type: file
-      name: image
-      label: image
+      name: project_image
+      label: project_image
     - type: text
       name: link
-      label: link
+      label: project_link
+    label: project
+  label: Projects
