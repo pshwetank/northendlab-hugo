@@ -19,7 +19,7 @@ tools:
   - name: Neural Image Captioning - Pytorch Implementation
     image: "/images/tools/sketch.png"
     link: https://www.sketch.com/
-- title: Digital Marketing Tools
+- title: Others
   tool:
   - name: Mailchimp
     image: "/images/tools/MailChimp.jpg"
