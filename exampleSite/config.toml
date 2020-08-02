@@ -73,7 +73,7 @@ icon = "ti-twitter-alt"
 link = "https://twitter.com/pirate_geek"
 [[params.social]]
 icon = "ti-github"
-link = "github.com/pshwetank"
+link = "https://github.com/pshwetank"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/pshwetank/"
