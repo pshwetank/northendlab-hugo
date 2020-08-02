@@ -9,7 +9,7 @@ sections:
   label: Projects
   create: documents
   match: "**/*"
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
   templates:
   - tools
 - type: heading
