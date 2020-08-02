@@ -11,6 +11,9 @@ tools:
     image: ''
     link: ''
 menu:
+  footer:
+    name: Projects
+    weight: 3
   main:
     URL: projects
     name: Projects
