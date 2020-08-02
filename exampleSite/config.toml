@@ -70,7 +70,7 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "twitter.com/pirate_geek"
+link = "https://twitter.com/pirate_geek"
 [[params.social]]
 icon = "ti-github"
 link = "github.com/pshwetank"
