@@ -8,4 +8,4 @@ I am a Computer Vision researcher with a focus on deep learning applications in 
 
 While I am not working on machine learning projects, I spend my time reading about international relations, non-fiction and productivity hacks. 
 
-I am a strong advocate of learning by doing. 
+I am a strong advocate of learning by doing. Whenever I learn something and came across something highly insightful, I make it a point to share it via my twitter account. Do checkout my tweets for my daily rant and learnings.
