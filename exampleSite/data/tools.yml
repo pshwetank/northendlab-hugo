@@ -11,12 +11,12 @@ tools:
   - name: Fiducial Marker Localisation in MRI imaging
     image: "/images/fiducial_skull.JPG"
     link: https://github.com/pshwetank/Fiducial-Localization-in-MRI-Imaging
-- title: Deep Learning
+- title: Deep Learning and Computer Vision
   tool:
-  - name: Facial Keypoint Detection using CNN
   - name: Neural Image Captioning - Pytorch Implementation
     image: "/images/image_captioning.png"
     link: https://github.com/pshwetank/NIC-2015-Pytorch
+  - name: Facial Keypoint Detection using CNN
 - title: Computational Projects
   tool:
   - name: 'Analysis of Neural Manifolds during Sharp Wave Ripples in rodents '
