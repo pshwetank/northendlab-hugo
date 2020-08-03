@@ -1,5 +1,6 @@
 ---
 tools:
+- title: Computational Projects
 - title: Healthcare
   tool:
   - name: Automated Detection of Cerebral Microbleeds using Machine Learning
