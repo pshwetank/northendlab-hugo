@@ -11,8 +11,8 @@ tools:
 - title: Deep Learning
   tool:
   - name: Neural Image Captioning - Pytorch Implementation
-    image: "/images/tools/sketch.png"
-    link: https://www.sketch.com/
+    image: "/images/image_captioning.png"
+    link: https://github.com/pshwetank/NIC-2015-Pytorch
 - title: Others
   tool:
   - name: Mailchimp
