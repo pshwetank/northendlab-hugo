@@ -15,6 +15,7 @@ tools:
     link: https://github.com/pshwetank/Fiducial-Localization-in-MRI-Imaging
 - title: Computational Projects
   tool:
+  - name: 'Analysis of Neural Manifolds during Sharp Wave Ripples in rodents '
   - name: miRNA Sequence Prediction using SVM
     link: https://github.com/pshwetank/miRNA-Sequence-Prediction
 - title: Open Source
