@@ -16,7 +16,7 @@ tools:
     link: https://github.com/pshwetank/NIC-2015-Pytorch
   - name: Facial Keypoint Detection using CNN
   - name: Gesture Hawk - Image Processing based Gesture recognition interface
-- title: Computational Projects
+- title: Scientific Projects
   tool:
   - name: 'Analysis of Neural Manifolds during Sharp Wave Ripples in rodents '
   - name: miRNA Sequence Prediction using SVM
