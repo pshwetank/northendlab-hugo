@@ -1,6 +1,6 @@
 ---
 tools:
-- title: Medical Imaging
+- title: Healthcare
   tool:
   - name: Automated Detection of Cerebral Microbleeds using Machine Learning
     image: "/images/mri_logo.png"
@@ -19,6 +19,3 @@ tools:
   - name: Open Source Brain
     image: "/images/tools/GoogleTrends.jpg"
     link: https://trends.google.com/trends/
-  - name: Darknet Yolov4
-    image: "/images/tools/Google-Analytics.jpg"
-    link: https://analytics.google.com/analytics/web
