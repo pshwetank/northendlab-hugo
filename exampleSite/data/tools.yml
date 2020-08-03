@@ -13,6 +13,7 @@ tools:
     link: https://github.com/pshwetank/Fiducial-Localization-in-MRI-Imaging
 - title: Deep Learning
   tool:
+  - name: Facial Keypoint Detection using CNN
   - name: Neural Image Captioning - Pytorch Implementation
     image: "/images/image_captioning.png"
     link: https://github.com/pshwetank/NIC-2015-Pytorch
