@@ -24,7 +24,10 @@
                     <!-- Latest compiled JavaScript -->
                     <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>-->
                     <!--<a href="{{ .link | safeURL }}" class="btn-floating btn-lg btn-git" type="button" role="button"><i class="fab fa-github"></i></a>-->
-                    <a href="{{ .link | safeURL }}"><i class="ti-github"></i></a>
+                    <ul class="list-inline social-icon mb-0">
+                      <li class="list-inline-item"><a href="https://twitter.com/pirate_geek"><i class="ti-twitter-alt"></i></a></li>
+                      <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="ti-github"></i></a></li>    
+                  </ul>
                   </div>
                 </div>
               </div>
