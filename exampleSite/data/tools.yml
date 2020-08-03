@@ -3,8 +3,8 @@ tools:
 - title: Medical Imaging
   tool:
   - name: Automated Detection of Cerebral Microbleeds using Machine Learning
-    image: "/images/tools/Git.png"
-    link: ''
+    image: "/images/mri_logo.png"
+    link: https://github.com/pshwetank/pfca
   - name: Fiducial Marker Localisation in MRI imaging
     image: "/images/tools/Atom.png"
     link: https://atom.io/
