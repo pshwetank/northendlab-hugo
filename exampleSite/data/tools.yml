@@ -1,6 +1,10 @@
 ---
 tools:
-- title: Computational Projects
+- title: Deep Learning
+  tool:
+  - name: Neural Image Captioning - Pytorch Implementation
+    image: "/images/image_captioning.png"
+    link: https://github.com/pshwetank/NIC-2015-Pytorch
 - title: Healthcare
   tool:
   - name: Automated Detection of Cerebral Microbleeds using Machine Learning
@@ -9,11 +13,10 @@ tools:
   - name: Fiducial Marker Localisation in MRI imaging
     image: "/images/fiducial_skull.JPG"
     link: https://github.com/pshwetank/Fiducial-Localization-in-MRI-Imaging
-- title: Deep Learning
+- title: Computational Projects
   tool:
-  - name: Neural Image Captioning - Pytorch Implementation
-    image: "/images/image_captioning.png"
-    link: https://github.com/pshwetank/NIC-2015-Pytorch
+  - name: miRNA Sequence Prediction using SVM
+    link: https://github.com/pshwetank/miRNA-Sequence-Prediction
 - title: Open Source
   tool:
   - name: Neural Manifold Literature
