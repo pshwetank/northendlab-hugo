@@ -41,7 +41,7 @@ image = "images/banner/illustration.svg"
 title = "Hi, I'm Shwetank Panwar. <br> I help people make sense of medical data"
 [params.cta]
 description = "That's great. I believe learning best happen with discussions. Just ping me and lets see if we can learn together. "
-enable = true
+enable = false
 image = "images/chat_logo.png"
 title = "Are you too fascinated with the biology & data science?"
 [params.cta.button]
