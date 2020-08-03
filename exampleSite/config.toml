@@ -19,6 +19,7 @@ name = "About Me"
 weight = 1
 [[menu.main]]
 name = "CV"
+url = "https://drive.google.com/file/d/1MhpDev7L0qCTLX1pAYencHI3xZs83dF7/view?usp=sharing"
 weight = 3
 [[menu.main]]
 URL = "tools"
