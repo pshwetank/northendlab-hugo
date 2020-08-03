@@ -7,11 +7,11 @@ theme = "northendlab-hugo"
 title = "Shwetank Panwar | Blog"
 [[menu.footer]]
 URL = "tools"
-name = "tools"
+name = "Projects"
 weight = 2
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "About me"
 weight = 1
 [[menu.main]]
 URL = "contact"
