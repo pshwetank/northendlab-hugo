@@ -6,8 +6,8 @@ tools:
     image: "/images/mri_logo.png"
     link: https://github.com/pshwetank/pfca
   - name: Fiducial Marker Localisation in MRI imaging
-    image: "/images/tools/Atom.png"
-    link: https://atom.io/
+    image: "/images/fiducial_skull.JPG"
+    link: https://github.com/pshwetank/Fiducial-Localization-in-MRI-Imaging
 - title: Deep Learning
   tool:
   - name: Neural Image Captioning - Pytorch Implementation
