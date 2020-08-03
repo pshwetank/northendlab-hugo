@@ -13,26 +13,11 @@ tools:
   - name: Neural Image Captioning - Pytorch Implementation
     image: "/images/image_captioning.png"
     link: https://github.com/pshwetank/NIC-2015-Pytorch
-- title: Others
+- title: Open Source
   tool:
-  - name: Mailchimp
-    image: "/images/tools/MailChimp.jpg"
-    link: https://mailchimp.com/
-  - name: Buffer
-    image: "/images/tools/Buffer.jpg"
-    link: https://buffer.com/
-  - name: Bitly Link
-    image: "/images/tools/Bitly.jpg"
-    link: https://bitly.com/
-  - name: Hotjar
-    image: "/images/tools/Hotjar.jpg"
-    link: https://www.hotjar.com/
-  - name: Ahrefs
-    image: "/images/tools/Ahrefs.jpg"
-    link: https://ahrefs.com/
-  - name: Google Trends
+  - name: Open Source Brain
     image: "/images/tools/GoogleTrends.jpg"
     link: https://trends.google.com/trends/
-  - name: Google Analytics
+  - name: Darknet Yolov4
     image: "/images/tools/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web
