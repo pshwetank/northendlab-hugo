@@ -1,8 +1,7 @@
 ---
-title: "Contact Us"
-draft: false
-description : "this is meta description"
-image: "images/contact.svg"
----
+title: Hi there!
+description: this is meta description
+image: images/contact.svg
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+---
+I am a Computer Vision researcher with a focus on deep learning applications in medical imaging and healthcare. I am fascinated by the sophistication of biological systems and want to develop AI tools to better understand them.
