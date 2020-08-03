@@ -8,12 +8,6 @@ tools:
   - name: Fiducial Marker Localisation in MRI imaging
     image: "/images/tools/Atom.png"
     link: https://atom.io/
-  - name: Notepad ++
-    image: "/images/tools/Notepad.png"
-    link: https://notepad-plus-plus.org/
-  - name: Sublime Text
-    image: "/images/tools/sublime.png"
-    link: https://www.sublimetext.com/
 - title: Deep Learning
   tool:
   - name: Neural Image Captioning - Pytorch Implementation
