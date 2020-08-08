@@ -45,11 +45,11 @@ tools:
     link: http://www.opensourcebrain.org/docs#FAQ
 - title: Cerificates
   tool:
-  - name: Summer School in Neuroimaging - IIIT Hyderabad
-    image: "/images/international_institute_of_information_technology-_hyderabad_logo.png"
   - name: Computer Vision Nanodegree - Udacity
     image: "/images/hqdefault.jpg"
     link: https://confirm.udacity.com/AAAFSHHM
   - name: Computational Neuroscience - University of Washington (Coursera)
     image: "/images/large-icon-png.jpeg"
     link: https://www.coursera.org/account/accomplishments/verify/BP9ZY7XDFZ83
+  - name: Summer School in Neuroimaging - IIIT Hyderabad
+    image: "/images/international_institute_of_information_technology-_hyderabad_logo.png"
