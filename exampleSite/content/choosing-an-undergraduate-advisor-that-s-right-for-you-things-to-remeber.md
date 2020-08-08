@@ -5,7 +5,7 @@ date = ""
 description = ""
 draft = true
 image = ""
-title = "Choosing an undergraduate advisor that's right for you - Things to remeber"
+title = "Finding an undergraduate advisor - Few things to remember"
 type = "post"
 
 +++
