@@ -38,6 +38,6 @@ tools:
   - name: Neural Manifold Literature
     image: "/images/41467_2018_6560_fig1_html.png"
     link: https://github.com/pshwetank/Neural-Manifold-literature
-  - name: Open Source Brain (open source contributions)
+  - name: Open Source Brain (open source contributor)
     image: "/images/osbcircle.png"
-    link: https://trends.google.com/trends/
+    link: http://www.opensourcebrain.org/docs#FAQ
