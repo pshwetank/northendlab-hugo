@@ -46,7 +46,7 @@ tools:
 - title: Cerificates
   tool:
   - name: Computer Vision Nanodegree - Udacity
-    image: "/images/hqdefault.jpg"
+    image: "/images/hqdefault-1.jpg"
     link: https://confirm.udacity.com/AAAFSHHM
   - name: Computational Neuroscience - University of Washington (Coursera)
     image: "/images/large-icon-png.jpeg"
