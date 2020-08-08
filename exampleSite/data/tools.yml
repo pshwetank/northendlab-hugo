@@ -1,6 +1,5 @@
 ---
 tools:
-- title: Cerifications
 - title: Healthcare
   tool:
   - name: Automated Detection of Cerebral Microbleeds using Machine Learning
@@ -43,3 +42,4 @@ tools:
   - name: Open Source Brain (open source contributor)
     image: "/images/osbcircle.png"
     link: http://www.opensourcebrain.org/docs#FAQ
+- title: Cerifications
