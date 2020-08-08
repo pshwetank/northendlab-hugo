@@ -17,6 +17,8 @@ tools:
     image: "/images/image_captioning.png"
     link: https://github.com/pshwetank/NIC-2015-Pytorch
   - name: Facial Keypoint Detection using CNN
+    image: "/images/tutorial-selfie-filters-using-deep-learning-and-opencv-facial-landmarks-detection.png"
+    link: https://github.com/pshwetank/P1_Facial_Keypoints
   - name: Gesture Hawk - Image Processing based Gesture recognition interface
   - name: Larvae Counter using Haar Cascade classifier
     image: "/images/shrimps.jpg"
