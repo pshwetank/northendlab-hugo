@@ -43,3 +43,5 @@ tools:
     image: "/images/osbcircle-1.png"
     link: http://www.opensourcebrain.org/docs#FAQ
 - title: Cerifications
+  tool:
+  - name: Computer Vision Nanodegree - Udacity
