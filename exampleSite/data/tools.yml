@@ -44,5 +44,5 @@ tools:
     link: http://www.opensourcebrain.org/docs#FAQ
 - title: Cerifications
   tool:
-  - name: Computational Neuroscience - University of Washington (Coursera)
   - name: Computer Vision Nanodegree - Udacity
+  - name: Computational Neuroscience - University of Washington (Coursera)
