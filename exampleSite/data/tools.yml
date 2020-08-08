@@ -28,6 +28,7 @@ tools:
 - title: Scientific Projects
   tool:
   - name: 'Analysis of Neural Manifolds during Sharp Wave Ripples in rodents '
+    image: "/images/1-xkw-_ocsdmswey-6e3exeq.png"
   - name: miRNA Sequence Prediction using SVM
     link: https://github.com/pshwetank/miRNA-Sequence-Prediction
 - title: Open Source
