@@ -10,11 +10,13 @@ tools:
     link: https://github.com/pshwetank/Fiducial-Localization-in-MRI-Imaging
 - title: Deep Learning and Computer Vision
   tool:
-  - name: Larvae Counter using Haar Cascade classifier
   - name: Neural Image Captioning - Pytorch Implementation
     image: "/images/image_captioning.png"
     link: https://github.com/pshwetank/NIC-2015-Pytorch
   - name: Facial Keypoint Detection using CNN
+  - name: Larvae Counter using Haar Cascade classifier
+    image: "/images/shrimps.jpg"
+    link: https://github.com/pshwetank/larvae-counter
   - name: Gesture Hawk - Image Processing based Gesture recognition interface
 - title: Scientific Projects
   tool:
