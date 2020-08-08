@@ -49,3 +49,5 @@ tools:
     image: "/images/hqdefault.jpg"
     link: https://confirm.udacity.com/AAAFSHHM
   - name: Computational Neuroscience - University of Washington (Coursera)
+    image: "/images/large-icon-png.jpeg"
+    link: https://www.coursera.org/account/accomplishments/verify/BP9ZY7XDFZ83
