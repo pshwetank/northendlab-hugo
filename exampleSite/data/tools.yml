@@ -2,7 +2,8 @@
 tools:
 - title: Healthcare
   tool:
-  - name: Automated Detection of Cerebral Microbleeds using Machine Learning
+  - name: Automated Detection of Cerebral Microbleeds using Radial Symmetry Transform
+      & RUS Boosted Trees
     image: "/images/mri_logo.png"
     link: https://github.com/pshwetank/pfca
   - name: Fiducial Marker Localisation in MRI imaging
