@@ -43,7 +43,9 @@ tools:
   - name: Open Source Brain (open source contributor)
     image: "/images/osb_logo.png"
     link: http://www.opensourcebrain.org/docs#FAQ
-- title: Cerifications
+- title: Cerificates
   tool:
   - name: Computer Vision Nanodegree - Udacity
+    image: "/images/hqdefault.jpg"
+    link: https://confirm.udacity.com/AAAFSHHM
   - name: Computational Neuroscience - University of Washington (Coursera)
