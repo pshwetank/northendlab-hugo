@@ -24,3 +24,5 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- exampleSite/content/choosing-an-undergraduate-advisor-that-s-right-for-you-things-to-remeber.md
