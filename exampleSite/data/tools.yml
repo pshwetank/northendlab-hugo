@@ -19,12 +19,12 @@ tools:
   - name: Facial Keypoint Detection using CNN
     image: "/images/tutorial-selfie-filters-using-deep-learning-and-opencv-facial-landmarks-detection.png"
     link: https://github.com/pshwetank/P1_Facial_Keypoints
-  - name: Gesture Hawk - Hand gesture controlled robot
-    image: "/images/f2pazwbj0x511b3.jpg"
-    link: https://www.instructables.com/id/GESTURE-HAWK-HAND-GESTURE-CONTROLLED-ROBOT-USING-I/
   - name: Larvae Counter using Haar Cascade classifier
     image: "/images/shrimps.jpg"
     link: https://github.com/pshwetank/larvae-counter
+  - name: Gesture Hawk - Hand gesture controlled robot
+    image: "/images/f2pazwbj0x511b3.jpg"
+    link: https://www.instructables.com/id/GESTURE-HAWK-HAND-GESTURE-CONTROLLED-ROBOT-USING-I/
 - title: Scientific Projects
   tool:
   - name: 'Analysis of Neural Manifolds during Sharp Wave Ripples in rodents '
