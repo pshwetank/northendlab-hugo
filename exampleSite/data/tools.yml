@@ -31,7 +31,7 @@ tools:
     image: "/images/f1-large.jpg"
   - name: miRNA Sequence Prediction using SVM
     link: https://github.com/pshwetank/miRNA-Sequence-Prediction
-    image: "/images/rnamrna-target-interaction-schematic-overview-of-a-mirna-interaction-with-its-mrna-png.jpeg"
+    image: "/images/mirna.png"
 - title: Open Source
   tool:
   - name: PFCA (Programming Framework for Clinical Image Analysis)
