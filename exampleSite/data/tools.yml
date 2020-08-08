@@ -36,6 +36,8 @@ tools:
   tool:
   - name: PFCA (Programming Framework for Clinical Image Analysis)
   - name: Neural Manifold Literature
+    image: "/images/41467_2018_6560_fig1_html.png"
+    link: https://github.com/pshwetank/Neural-Manifold-literature
   - name: Open Source Brain
     image: "/images/tools/GoogleTrends.jpg"
     link: https://trends.google.com/trends/
