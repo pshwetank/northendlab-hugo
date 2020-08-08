@@ -20,6 +20,8 @@ tools:
     image: "/images/tutorial-selfie-filters-using-deep-learning-and-opencv-facial-landmarks-detection.png"
     link: https://github.com/pshwetank/P1_Facial_Keypoints
   - name: Gesture Hawk - Image Processing based Gesture recognition interface
+    image: "/images/f2pazwbj0x511b3.jpg"
+    link: https://www.instructables.com/id/GESTURE-HAWK-HAND-GESTURE-CONTROLLED-ROBOT-USING-I/
   - name: Larvae Counter using Haar Cascade classifier
     image: "/images/shrimps.jpg"
     link: https://github.com/pshwetank/larvae-counter
