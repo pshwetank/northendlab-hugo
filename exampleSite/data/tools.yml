@@ -10,14 +10,17 @@ tools:
     link: https://github.com/pshwetank/Fiducial-Localization-in-MRI-Imaging
 - title: Deep Learning and Computer Vision
   tool:
+  - name: GradCAM implementation for custom neural architectures in Pytorch
+    image: "/images/cat_cam.png"
+    link: https://github.com/pshwetank/grad-cam-pytorch
   - name: Neural Image Captioning - Pytorch Implementation
     image: "/images/image_captioning.png"
     link: https://github.com/pshwetank/NIC-2015-Pytorch
   - name: Facial Keypoint Detection using CNN
+  - name: Gesture Hawk - Image Processing based Gesture recognition interface
   - name: Larvae Counter using Haar Cascade classifier
     image: "/images/shrimps.jpg"
     link: https://github.com/pshwetank/larvae-counter
-  - name: Gesture Hawk - Image Processing based Gesture recognition interface
 - title: Scientific Projects
   tool:
   - name: 'Analysis of Neural Manifolds during Sharp Wave Ripples in rodents '
