@@ -30,7 +30,7 @@ tools:
   tool:
   - name: Analysis of Neural Manifolds during Sharp Wave Ripples in rodents
     image: "/images/f1-large.jpg"
-  - name: miRNA Sequence Prediction using SVM
+  - name: miRNA Sequence Prediction using Support Vector Machines
     link: https://github.com/pshwetank/miRNA-Sequence-Prediction
     image: "/images/mirna.png"
 - title: Open Source
