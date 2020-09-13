@@ -14,4 +14,8 @@ Nevertheless, if you decided to leave academic research based on the above facto
 
 ### Fair compensation for your efforts
 
+                         ![](/images/closeup-us-money-dollar-black-260nw-1082308172.jpg)
+
 It is not such a hidden fact how most of the academia thrives on uncompensated free-labor. While people in academic research often keep the money as their priority, it sometimes hurt when you can't get your needs met with the meager amount of cash provided as a stipend. It was not until I left the undergraduate research that I realized the amount of unpaid work I did without much incentive either in credits or cash. Contrastingly, most corporate offices have a consistent compensation policy that ensures a reasonable pay for your efforts. While it depends a lot on the company's financial condition, you can even demand fair compensation if you feel that you don't feel like it. Of course, companies are also paying differently for the same job description, but it is mostly higher than what you might be getting as a stipend in a research lab. Remember, you might also be working as an unpaid worker in a lab.
+
+### Working on more impactful research problems   
