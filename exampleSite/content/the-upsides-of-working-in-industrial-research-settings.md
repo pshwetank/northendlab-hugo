@@ -2,7 +2,7 @@
 author = "Shwetank Panwar"
 categories = ["professional"]
 date = 2020-09-05T06:30:00Z
-description = ""
+description = "Things that you will find more relaxing in an industrial lab as compared to an academic one"
 image = "/images/20170908mitai.jpg"
 title = "The upsides of working in industrial research settings"
 type = "post"
