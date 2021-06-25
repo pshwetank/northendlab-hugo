@@ -39,7 +39,7 @@ logo = "images/fusion_matching.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm Shwetank Panwar. <br> I help people make sense of complex data"
+title = "Hi, I'm Shwetank Panwar. <br> I help people make sense of images and knowledge graphs"
 [params.cta]
 description = "That's great. I believe learning best happen with discussions. Just ping me and lets see if we can learn together. "
 enable = false
