@@ -66,7 +66,7 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [params.preloader]
 enable = true
-preloader = "https://flevix.com/wp-content/uploads/2020/01/Bounce-Bar-Preloader-1.gif"
+preloader = "https://cdn.dribbble.com/users/830587/screenshots/4381223/loader_gif.gif"
 [params.search]
 enable = true
 [[params.social]]
