@@ -18,6 +18,7 @@ URL = "contact"
 name = "About Me"
 weight = 1
 [[menu.main]]
+URL = "https://drive.google.com/file/d/1YBQib-dtJixDmpk2n-kBQ6wqcfUZX2JR/view?usp=sharing"
 name = "Resume"
 url = "https://drive.google.com/file/d/1MhpDev7L0qCTLX1pAYencHI3xZs83dF7/view?usp=sharing"
 weight = 3
